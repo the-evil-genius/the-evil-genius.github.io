@@ -1,0 +1,33 @@
+/*Selector {
+	Property: value;
+}*/
+
+body {
+	background-image: url(tyre1.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: red;
+	text-align: center;
+	cursor: pointer;
+	font-size: 50px;
+	font-family: "Tahoma";
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: white;
+}
+
+p {
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	font-family: "Tahoma";
+	-webkit-text-stroke-width: 1px;
+	-webkit-text-stroke-color: black;
+}
+
+li {
+	color: blue;
+	list-style: none;
+	display: inline-block;
+}

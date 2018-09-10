@@ -1,0 +1,17 @@
+h2 {
+	color: purple;
+	text-align: center;
+}
+
+
+body {
+	background-color: rgba(46.3, 35.7, 85.9, 0.4);
+	/*background-image: url(leather.jpg);*/
+	/*background-size: cover;*/
+}
+
+li {
+	color: blue;
+	list-style: none;
+	display: inline-block;
+}
